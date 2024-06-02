@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ресурсы и материалы</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Ресурсы и материалы</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Главная</a></li>
+                <li><a href="#about">О себе</а></li>
+                <li><a href="#schedule">Расписание занятий</a></li>
+                <li><a href="#resources">Ресурсы и материалы</a></li>
+                <li><a href="#contact">Контакты</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="resources">
+            <h2>Ресурсы и материалы</h2>
+            <ul>
+                <li><a href="resource1.pdf">Материал 1 (PDF)</a></li>
+                <li><a href="resource2.pdf">Материал 2 (PDF)</a></li>
+                <li><a href="resource3.pdf">Материал 3 (PDF)</a></li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Учитель физкультуры. Все права защищены.</p>
+    </footer>
+</body>
+</html>
